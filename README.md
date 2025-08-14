@@ -1,1 +1,3 @@
-# Comprehensive-Data-Analysis-of-Drug-Approval-Processes-and-Side-Effect-Relationships
+Project Summary
+
+This project analyzes a dataset containing drug labels and side effects. The relationship between drug classes, side effect severity, and approval status was examined, revealing that approved drugs tend to have slightly higher average prices. Analyses also identified the most common side effects for each drug class. Additionally, a machine learning model was developed to predict drug approval status; however, despite various model optimization efforts, prediction performance remained limited. These analyses provide valuable insights into key factors influencing drug development and approval processes.
